@@ -1,0 +1,15 @@
+/*project source 2 HTML convertor*/
+
+#include <stdio.h>
+
+int x=102;
+
+char c='A';
+
+char y="kewal";
+
+//check condition
+if (c=='A')
+printf("its true");
+    
+}
